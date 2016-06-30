@@ -1,0 +1,16 @@
+h1 {
+	color: white;
+	text-align: left;
+	font-size: 250;
+
+} 
+body {
+	background-color: black; 
+	margin-left: 200px;	
+}  
+p { 
+	color: white;
+	text-align: left;
+	font-size: 150;
+	margin-right: 200px;
+ }	
